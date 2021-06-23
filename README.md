@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <details>
-  <summary> <b> Things to know about me! </b> <i>(Click to expand)</i> </summary>
+  <summary> <b> About me! </b> <i>(Click to expand)</i> </summary>
   
   <b>
-    This is going to be hidden.
+    Passionate about codes, family, and I love games.
   </b>
 </details>
 
