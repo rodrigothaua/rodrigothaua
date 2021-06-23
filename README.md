@@ -8,8 +8,7 @@
   </b>
 </details>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/rodrigothaua?username=rodrigothaua)](https://github.com/rodrigothaua/github-readme-stats)
-
+![Rodrigo Thauã GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigothaua&show_icons=true&theme=dark)
 
 <!--
 **rodrigothaua/rodrigothaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
