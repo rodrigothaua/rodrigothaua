@@ -7,7 +7,7 @@ Front-end developer with React.js and Mobile with Flutter
   <summary> <b> About me! </b> <i>(Click to expand)</i> </summary>
   
  
-    - Passionate about codes, family, and I love games.
+  <p> Passionate about codes, family, and I love games. </p>
 
 </details>
 
