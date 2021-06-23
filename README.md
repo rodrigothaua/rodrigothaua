@@ -8,7 +8,7 @@
   </b>
 </details>
 
-![Rodrigo Thauã GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigothaua&show_icons=true&theme=radical)
+![Rodrigo Thauã GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigothaua&show_icons=true&theme=radical&bg_color=DEG,COLOR4)
 
 
 <!--
