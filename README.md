@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<details>
+  <summary> <b> Things to know about me! </b> <i>(Click to expand)</i> </summary>
+  
+  <b>
+    This is going to be hidden.
+  </b>
+</details>
+
 <!--
 **rodrigothaua/rodrigothaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
