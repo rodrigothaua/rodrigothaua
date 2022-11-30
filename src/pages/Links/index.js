@@ -17,7 +17,7 @@ function Links() {
             <Redes nome='Linkedin' username='rodrigothaua' alt='Linkedin' />
 
             
-        </div>       
+        </div>
     )
 }
 
