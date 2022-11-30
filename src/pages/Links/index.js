@@ -11,7 +11,7 @@ function Links() {
             </div>
 
             <Redes nome='Instagram' username='rodrigothaua' alt='Instagram' />
-            <Redes nome='Facebbok' username='rodrigothaua' alt='Facebook' />
+            <Redes nome='Facebook' username='rodrigothaua' alt='Facebook' />
             <Redes nome='Twitter' username='rodrigothaua' alt='Twitter' />
             <Redes nome='Github' username='rodrigothaua' alt='Github' />
             <Redes nome='Linkedin' username='rodrigothaua' alt='Linkedin' />
