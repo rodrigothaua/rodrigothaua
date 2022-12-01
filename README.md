@@ -1,15 +1,11 @@
 # Olá 👋
 
 ### 👦 Um pouco sobre mim ...
-Meu nome é Rodrigo Thauã e minha jornada como dev começou em **Maio de 2016**, desenvolvendo sites para agências com WordPress.
+Meu nome é Rodrigo Thauã e minha jornada como dev começou em **Maio de 2016**, desenvolvendo sites para agências na época com WordPress.
 
 Sou um desenvolvedor Web com foco em Frontend apaixonado em transformar as minhas ideias malucas em softwares e em projetos. 😜
 
 <hr />
-
-## Informações pessoais:
-
-- Tenho conhecimento em **React.js**, **Vue.js** e **Angular 2+**;
 
 ## Tecnlogias que eu tenho experiência:
 
@@ -32,9 +28,6 @@ Sou um desenvolvedor Web com foco em Frontend apaixonado em transformar as minha
 <p>
 <a href="https://github.com/rodrigothaua">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigothaua&theme=gotham" />
-</a>
-<a href="https://github.com/rodrigothaua">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigothaua&show_icons=true&theme=gotham" alt="rodrigothaua" />
 </a>
 </p>
 
