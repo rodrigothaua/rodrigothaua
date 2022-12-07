@@ -1,0 +1,11 @@
+.app-header{
+    background-color: #ccc;
+    height: 100px;
+}
+
+.app-header__menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 5rem 5rem;
+}
