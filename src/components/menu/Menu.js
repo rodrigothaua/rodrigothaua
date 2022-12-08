@@ -10,12 +10,12 @@ const Menu = () => {
             <li className='app-menu__item'>
                 <Link className='app-menu__link' to='/'>
                     Home
-                </Link>
+                </Link>//
             </li>
             <li className='app-menu__item'>
                 <Link className='app-menu__link' to='/about'>
                     About
-                </Link>
+                </Link>//
             </li>
             <li className='app-menu__item'>
                 <Link className='app-menu__link' to='/contact'>

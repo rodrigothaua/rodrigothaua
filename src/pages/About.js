@@ -11,6 +11,7 @@ const About = () => {
         <Container>
             <h1>Sobre</h1>
         </Container>
+        <Footer />
     </>
   )
 }

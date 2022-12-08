@@ -1,16 +1,8 @@
 .app-footer {
-    position: fixed;
-    background: #dcdcdc;
-    left: 0;
-    bottom: 0;
     width: 100%;
     height: 10rem;
-    color: white;
-}
-
-.app-footer__credits {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
-    align-content: center;
+    align-items: center;
 }

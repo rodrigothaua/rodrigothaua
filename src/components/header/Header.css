@@ -1,11 +1,36 @@
 .app-header{
-    background-color: #ccc;
-    height: 100px;
+    background-color: #161616;
+    height: 200px;
+    margin-top: 2rem;
+}
+
+.app-header .avatar {
+    margin: 0 auto 16px;
+    border-radius: 50%;
+    background: linear-gradient(-45deg, #157ae1, #c7a1ff);
+    padding: 3px;
+    width: 140px;
+    height: 140px;
+}
+    
+.avatar > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    
+    border: 4px solid #161616;
 }
 
 .app-header__menu {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
     margin: 0 5rem 5rem;
+}
+
+.app-header__menu img{
+    max-width: 100px;
 }
