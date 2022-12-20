@@ -1,7 +1,9 @@
 .app-header{
-    background-color: #161616;
     height: 200px;
     margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .app-header .avatar {
@@ -12,7 +14,11 @@
     width: 140px;
     height: 140px;
 }
-    
+
+.app-header .name{
+    margin-bottom: 2rem;
+}
+
 .avatar > img {
     width: 100%;
     height: 100%;
