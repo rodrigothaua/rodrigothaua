@@ -5,10 +5,10 @@ const Form = () => {
     <div className='form__home'>
         <form class="login-form">
             <div class="textbox">
-                <input type="text" placeholder="Nome" />
+                <input type="text" id='nome' placeholder="Nome" />
             </div>
             <div class="textbox">
-                <input type="email" placeholder="E-mail" />
+                <input type="email" id='email' placeholder="E-mail" />
             </div>
             <button type="submit">Inscrever</button>
         </form>
