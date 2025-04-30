@@ -5,4 +5,4 @@
 ### 👦 Um pouco sobre mim ...
 Meu nome é Rodrigo Thauã e minha jornada como dev começou em **Maio de 2016**, desenvolvendo sites para agências na época com WordPress.
 
-Sou um desenvolvedor Web com foco em Frontend apaixonado em transformar as minhas ideias malucas em softwares e em projetos. 😜
+Sou um desenvolvedor Web full-stack apaixonado em transformar as minhas ideias malucas em softwares e em projetos. 😜
